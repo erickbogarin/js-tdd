@@ -1,0 +1,24 @@
+{
+  "name": "js-tdd",
+  "version": "1.0.0",
+  "description": "JS library with TDD course in practice.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erickbogarin/js-tdd.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "library"
+  ],
+  "author": "Erick Bogarin <erick.bogarin@gmail.com> (htpp://erickbogarin.com.br)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/erickbogarin/js-tdd/issues"
+  },
+  "homepage": "https://github.com/erickbogarin/js-tdd#readme"
+}
